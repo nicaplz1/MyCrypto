@@ -40,3 +40,4 @@ export type NetworkId =
   | 'HECO'
   | 'XDC'
   | 'XDCApothem';
+  | 'KCC' 
